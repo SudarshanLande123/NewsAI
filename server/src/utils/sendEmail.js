@@ -7,7 +7,7 @@ const layout = (title, bodyHtml) => `
     <div style="padding:28px;color:#333;line-height:1.6;font-size:15px;">
       ${bodyHtml}
     </div>
-    <div style="padding:16px 28px;background:#f9fafb;color:#888;font-size:12px;text-align:center;">
+    <div style="padding:16px 28px;background:#f9fafb;color:#888;font-size:15px;text-align:center;">
       Developed by <strong>Sudarshan Lande</strong>
     </div>
   </div>
